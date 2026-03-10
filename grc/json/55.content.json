@@ -1,0 +1,832 @@
+[
+  {
+    "content_id": "10055001001",
+    "version": "1.0.2",
+    "title": "2 Timothy 1:1",
+    "media_type": "Text",
+    "index_reference": "55001001",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>1</sup>&nbsp;Παῦλος ἀπόστολος Χριστοῦ Ἰησοῦ διὰ θελήματος θεοῦ κατʼ ἐπαγγελίαν ζωῆς τῆς ἐν Χριστῷ Ἰησοῦ</p>"
+  },
+  {
+    "content_id": "10055001002",
+    "version": "1.0.2",
+    "title": "2 Timothy 1:2",
+    "media_type": "Text",
+    "index_reference": "55001002",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>2</sup>&nbsp;Τιμοθέῳ ἀγαπητῷ τέκνῳ· χάρις, ἔλεος, εἰρήνη ἀπὸ θεοῦ πατρὸς καὶ Χριστοῦ Ἰησοῦ τοῦ κυρίου ἡμῶν.</p>"
+  },
+  {
+    "content_id": "10055001003",
+    "version": "1.0.2",
+    "title": "2 Timothy 1:3",
+    "media_type": "Text",
+    "index_reference": "55001003",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>3</sup>&nbsp;Χάριν ἔχω τῷ θεῷ, ᾧ λατρεύω ἀπὸ προγόνων ἐν καθαρᾷ συνειδήσει, ὡς ἀδιάλειπτον ἔχω τὴν περὶ σοῦ μνείαν ἐν ταῖς δεήσεσίν μου, νυκτὸς καὶ ἡμέρας</p>"
+  },
+  {
+    "content_id": "10055001004",
+    "version": "1.0.2",
+    "title": "2 Timothy 1:4",
+    "media_type": "Text",
+    "index_reference": "55001004",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>4</sup>&nbsp;ἐπιποθῶν σε ἰδεῖν, μεμνημένος σου τῶν δακρύων, ἵνα χαρᾶς πληρωθῶ</p>"
+  },
+  {
+    "content_id": "10055001005",
+    "version": "1.0.2",
+    "title": "2 Timothy 1:5",
+    "media_type": "Text",
+    "index_reference": "55001005",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>5</sup>&nbsp;ὑπόμνησιν λαβὼν τῆς ἐν σοὶ ἀνυποκρίτου πίστεως, ἥτις ἐνῴκησεν πρῶτον ἐν τῇ μάμμῃ σου Λωΐδι καὶ τῇ μητρί σου Εὐνίκῃ, πέπεισμαι δὲ ὅτι καὶ ἐν σοί.</p>"
+  },
+  {
+    "content_id": "10055001006",
+    "version": "1.0.2",
+    "title": "2 Timothy 1:6",
+    "media_type": "Text",
+    "index_reference": "55001006",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>6</sup>&nbsp;διʼ ἣν αἰτίαν ἀναμιμνῄσκω σε ἀναζωπυρεῖν τὸ χάρισμα τοῦ θεοῦ, ὅ ἐστιν ἐν σοὶ διὰ τῆς ἐπιθέσεως τῶν χειρῶν μου·</p>"
+  },
+  {
+    "content_id": "10055001007",
+    "version": "1.0.2",
+    "title": "2 Timothy 1:7",
+    "media_type": "Text",
+    "index_reference": "55001007",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>7</sup>&nbsp;οὐ γὰρ ἔδωκεν ἡμῖν ὁ θεὸς πνεῦμα δειλίας, ἀλλὰ δυνάμεως καὶ ἀγάπης καὶ σωφρονισμοῦ.</p>"
+  },
+  {
+    "content_id": "10055001008",
+    "version": "1.0.2",
+    "title": "2 Timothy 1:8",
+    "media_type": "Text",
+    "index_reference": "55001008",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>8</sup>&nbsp;Μὴ οὖν ἐπαισχυνθῇς τὸ μαρτύριον τοῦ κυρίου ἡμῶν μηδὲ ἐμὲ τὸν δέσμιον αὐτοῦ, ἀλλὰ συγκακοπάθησον τῷ εὐαγγελίῳ κατὰ δύναμιν θεοῦ,</p>"
+  },
+  {
+    "content_id": "10055001009",
+    "version": "1.0.2",
+    "title": "2 Timothy 1:9",
+    "media_type": "Text",
+    "index_reference": "55001009",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>9</sup>&nbsp;τοῦ σώσαντος ἡμᾶς καὶ καλέσαντος κλήσει ἁγίᾳ, οὐ κατὰ τὰ ἔργα ἡμῶν ἀλλὰ κατὰ ἰδίαν πρόθεσιν καὶ χάριν, τὴν δοθεῖσαν ἡμῖν ἐν Χριστῷ Ἰησοῦ πρὸ χρόνων αἰωνίων,</p>"
+  },
+  {
+    "content_id": "10055001010",
+    "version": "1.0.2",
+    "title": "2 Timothy 1:10",
+    "media_type": "Text",
+    "index_reference": "55001010",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>10</sup>&nbsp;φανερωθεῖσαν δὲ νῦν διὰ τῆς ἐπιφανείας τοῦ σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ, καταργήσαντος μὲν τὸν θάνατον φωτίσαντος δὲ ζωὴν καὶ ἀφθαρσίαν διὰ τοῦ εὐαγγελίου,</p>"
+  },
+  {
+    "content_id": "10055001011",
+    "version": "1.0.2",
+    "title": "2 Timothy 1:11",
+    "media_type": "Text",
+    "index_reference": "55001011",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>11</sup>&nbsp;εἰς ὃ ἐτέθην ἐγὼ κῆρυξ καὶ ἀπόστολος καὶ διδάσκαλος.</p>"
+  },
+  {
+    "content_id": "10055001012",
+    "version": "1.0.2",
+    "title": "2 Timothy 1:12",
+    "media_type": "Text",
+    "index_reference": "55001012",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>12</sup>&nbsp;διʼ ἣν αἰτίαν καὶ ταῦτα πάσχω, ἀλλʼ οὐκ ἐπαισχύνομαι, οἶδα γὰρ ᾧ πεπίστευκα, καὶ πέπεισμαι ὅτι δυνατός ἐστιν τὴν παραθήκην μου φυλάξαι εἰς ἐκείνην τὴν ἡμέραν.</p>"
+  },
+  {
+    "content_id": "10055001013",
+    "version": "1.0.2",
+    "title": "2 Timothy 1:13",
+    "media_type": "Text",
+    "index_reference": "55001013",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>13</sup>&nbsp;ὑποτύπωσιν ἔχε ὑγιαινόντων λόγων ὧν παρʼ ἐμοῦ ἤκουσας ἐν πίστει καὶ ἀγάπῃ τῇ ἐν Χριστῷ Ἰησοῦ·</p>"
+  },
+  {
+    "content_id": "10055001014",
+    "version": "1.0.2",
+    "title": "2 Timothy 1:14",
+    "media_type": "Text",
+    "index_reference": "55001014",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>14</sup>&nbsp;τὴν καλὴν παραθήκην φύλαξον διὰ πνεύματος ἁγίου τοῦ ἐνοικοῦντος ἐν ἡμῖν.</p>"
+  },
+  {
+    "content_id": "10055001015",
+    "version": "1.0.2",
+    "title": "2 Timothy 1:15",
+    "media_type": "Text",
+    "index_reference": "55001015",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>15</sup>&nbsp;Οἶδας τοῦτο ὅτι ἀπεστράφησάν με πάντες οἱ ἐν τῇ Ἀσίᾳ, ὧν ἐστιν Φύγελος καὶ Ἑρμογένης.</p>"
+  },
+  {
+    "content_id": "10055001016",
+    "version": "1.0.2",
+    "title": "2 Timothy 1:16",
+    "media_type": "Text",
+    "index_reference": "55001016",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>16</sup>&nbsp;δῴη ἔλεος ὁ κύριος τῷ Ὀνησιφόρου οἴκῳ, ὅτι πολλάκις με ἀνέψυξεν, καὶ τὴν ἅλυσίν μου οὐκ ἐπαισχύνθη·</p>"
+  },
+  {
+    "content_id": "10055001017",
+    "version": "1.0.2",
+    "title": "2 Timothy 1:17",
+    "media_type": "Text",
+    "index_reference": "55001017",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>17</sup>&nbsp;ἀλλὰ γενόμενος ἐν Ῥώμῃ σπουδαίως ἐζήτησέν με καὶ εὗρεν—</p>"
+  },
+  {
+    "content_id": "10055001018",
+    "version": "1.0.2",
+    "title": "2 Timothy 1:18",
+    "media_type": "Text",
+    "index_reference": "55001018",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>18</sup>&nbsp;δῴη αὐτῷ ὁ κύριος εὑρεῖν ἔλεος παρὰ κυρίου ἐν ἐκείνῃ τῇ ἡμέρᾳ—καὶ ὅσα ἐν Ἐφέσῳ διηκόνησεν, βέλτιον σὺ γινώσκεις.</p>"
+  },
+  {
+    "content_id": "10055002001",
+    "version": "1.0.2",
+    "title": "2 Timothy 2:1",
+    "media_type": "Text",
+    "index_reference": "55002001",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>1</sup>&nbsp;Σὺ οὖν, τέκνον μου, ἐνδυναμοῦ ἐν τῇ χάριτι τῇ ἐν Χριστῷ Ἰησοῦ,</p>"
+  },
+  {
+    "content_id": "10055002002",
+    "version": "1.0.2",
+    "title": "2 Timothy 2:2",
+    "media_type": "Text",
+    "index_reference": "55002002",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>2</sup>&nbsp;καὶ ἃ ἤκουσας παρʼ ἐμοῦ διὰ πολλῶν μαρτύρων, ταῦτα παράθου πιστοῖς ἀνθρώποις, οἵτινες ἱκανοὶ ἔσονται καὶ ἑτέρους διδάξαι.</p>"
+  },
+  {
+    "content_id": "10055002003",
+    "version": "1.0.2",
+    "title": "2 Timothy 2:3",
+    "media_type": "Text",
+    "index_reference": "55002003",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>3</sup>&nbsp;συγκακοπάθησον ὡς καλὸς στρατιώτης Χριστοῦ Ἰησοῦ.</p>"
+  },
+  {
+    "content_id": "10055002004",
+    "version": "1.0.2",
+    "title": "2 Timothy 2:4",
+    "media_type": "Text",
+    "index_reference": "55002004",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>4</sup>&nbsp;οὐδεὶς στρατευόμενος ἐμπλέκεται ταῖς τοῦ βίου πραγματείαις, ἵνα τῷ στρατολογήσαντι ἀρέσῃ·</p>"
+  },
+  {
+    "content_id": "10055002005",
+    "version": "1.0.2",
+    "title": "2 Timothy 2:5",
+    "media_type": "Text",
+    "index_reference": "55002005",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>5</sup>&nbsp;ἐὰν δὲ καὶ ἀθλῇ τις, οὐ στεφανοῦται ἐὰν μὴ νομίμως ἀθλήσῃ·</p>"
+  },
+  {
+    "content_id": "10055002006",
+    "version": "1.0.2",
+    "title": "2 Timothy 2:6",
+    "media_type": "Text",
+    "index_reference": "55002006",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>6</sup>&nbsp;τὸν κοπιῶντα γεωργὸν δεῖ πρῶτον τῶν καρπῶν μεταλαμβάνειν.</p>"
+  },
+  {
+    "content_id": "10055002007",
+    "version": "1.0.2",
+    "title": "2 Timothy 2:7",
+    "media_type": "Text",
+    "index_reference": "55002007",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>7</sup>&nbsp;νόει ὃ λέγω· δώσει γάρ σοι ὁ κύριος σύνεσιν ἐν πᾶσιν.</p>"
+  },
+  {
+    "content_id": "10055002008",
+    "version": "1.0.2",
+    "title": "2 Timothy 2:8",
+    "media_type": "Text",
+    "index_reference": "55002008",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>8</sup>&nbsp;Μνημόνευε Ἰησοῦν Χριστὸν ἐγηγερμένον ἐκ νεκρῶν, ἐκ σπέρματος Δαυίδ, κατὰ τὸ εὐαγγέλιόν μου·</p>"
+  },
+  {
+    "content_id": "10055002009",
+    "version": "1.0.2",
+    "title": "2 Timothy 2:9",
+    "media_type": "Text",
+    "index_reference": "55002009",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>9</sup>&nbsp;ἐν ᾧ κακοπαθῶ μέχρι δεσμῶν ὡς κακοῦργος. ἀλλὰ ὁ λόγος τοῦ θεοῦ οὐ δέδεται·</p>"
+  },
+  {
+    "content_id": "10055002010",
+    "version": "1.0.2",
+    "title": "2 Timothy 2:10",
+    "media_type": "Text",
+    "index_reference": "55002010",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>10</sup>&nbsp;διὰ τοῦτο πάντα ὑπομένω διὰ τοὺς ἐκλεκτούς, ἵνα καὶ αὐτοὶ σωτηρίας τύχωσιν τῆς ἐν Χριστῷ Ἰησοῦ μετὰ δόξης αἰωνίου.</p>"
+  },
+  {
+    "content_id": "10055002011",
+    "version": "1.0.2",
+    "title": "2 Timothy 2:11",
+    "media_type": "Text",
+    "index_reference": "55002011",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>11</sup>&nbsp;πιστὸς ὁ λόγος· εἰ γὰρ συναπεθάνομεν, καὶ συζήσομεν·</p>"
+  },
+  {
+    "content_id": "10055002012",
+    "version": "1.0.2",
+    "title": "2 Timothy 2:12",
+    "media_type": "Text",
+    "index_reference": "55002012",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>12</sup>&nbsp;εἰ ὑπομένομεν, καὶ συμβασιλεύσομεν· εἰ ἀρνησόμεθα, κἀκεῖνος ἀρνήσεται ἡμᾶς·</p>"
+  },
+  {
+    "content_id": "10055002013",
+    "version": "1.0.2",
+    "title": "2 Timothy 2:13",
+    "media_type": "Text",
+    "index_reference": "55002013",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>13</sup>&nbsp;εἰ ἀπιστοῦμεν, ἐκεῖνος πιστὸς μένει· ἀρνήσασθαι ἑαυτὸν οὐ δύναται.</p>"
+  },
+  {
+    "content_id": "10055002014",
+    "version": "1.0.2",
+    "title": "2 Timothy 2:14",
+    "media_type": "Text",
+    "index_reference": "55002014",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>14</sup>&nbsp;Ταῦτα ὑπομίμνῃσκε, διαμαρτυρόμενος ἐνώπιον τοῦ κυρίου, μὴ λογομαχεῖν, ἐπʼ οὐδὲν χρήσιμον, ἐπὶ καταστροφῇ τῶν ἀκουόντων.</p>"
+  },
+  {
+    "content_id": "10055002015",
+    "version": "1.0.2",
+    "title": "2 Timothy 2:15",
+    "media_type": "Text",
+    "index_reference": "55002015",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>15</sup>&nbsp;σπούδασον σεαυτὸν δόκιμον παραστῆσαι τῷ θεῷ, ἐργάτην ἀνεπαίσχυντον, ὀρθοτομοῦντα τὸν λόγον τῆς ἀληθείας.</p>"
+  },
+  {
+    "content_id": "10055002016",
+    "version": "1.0.2",
+    "title": "2 Timothy 2:16",
+    "media_type": "Text",
+    "index_reference": "55002016",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>16</sup>&nbsp;τὰς δὲ βεβήλους κενοφωνίας περιΐστασο· ἐπὶ πλεῖον γὰρ προκόψουσιν ἀσεβείας,</p>"
+  },
+  {
+    "content_id": "10055002017",
+    "version": "1.0.2",
+    "title": "2 Timothy 2:17",
+    "media_type": "Text",
+    "index_reference": "55002017",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>17</sup>&nbsp;καὶ ὁ λόγος αὐτῶν ὡς γάγγραινα νομὴν ἕξει· ὧν ἐστιν Ὑμέναιος καὶ Φίλητος,</p>"
+  },
+  {
+    "content_id": "10055002018",
+    "version": "1.0.2",
+    "title": "2 Timothy 2:18",
+    "media_type": "Text",
+    "index_reference": "55002018",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>18</sup>&nbsp;οἵτινες περὶ τὴν ἀλήθειαν ἠστόχησαν, λέγοντες ἀνάστασιν ἤδη γεγονέναι, καὶ ἀνατρέπουσιν τήν τινων πίστιν.</p>"
+  },
+  {
+    "content_id": "10055002019",
+    "version": "1.0.2",
+    "title": "2 Timothy 2:19",
+    "media_type": "Text",
+    "index_reference": "55002019",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>19</sup>&nbsp;ὁ μέντοι στερεὸς θεμέλιος τοῦ θεοῦ ἕστηκεν, ἔχων τὴν σφραγῖδα ταύτην· Ἔγνω κύριος τοὺς ὄντας αὐτοῦ, καί· Ἀποστήτω ἀπὸ ἀδικίας πᾶς ὁ ὀνομάζων τὸ ὄνομα κυρίου.</p>"
+  },
+  {
+    "content_id": "10055002020",
+    "version": "1.0.2",
+    "title": "2 Timothy 2:20",
+    "media_type": "Text",
+    "index_reference": "55002020",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>20</sup>&nbsp;Ἐν μεγάλῃ δὲ οἰκίᾳ οὐκ ἔστιν μόνον σκεύη χρυσᾶ καὶ ἀργυρᾶ ἀλλὰ καὶ ξύλινα καὶ ὀστράκινα, καὶ ἃ μὲν εἰς τιμὴν ἃ δὲ εἰς ἀτιμίαν·</p>"
+  },
+  {
+    "content_id": "10055002021",
+    "version": "1.0.2",
+    "title": "2 Timothy 2:21",
+    "media_type": "Text",
+    "index_reference": "55002021",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>21</sup>&nbsp;ἐὰν οὖν τις ἐκκαθάρῃ ἑαυτὸν ἀπὸ τούτων, ἔσται σκεῦος εἰς τιμήν, ἡγιασμένον, εὔχρηστον τῷ δεσπότῃ, εἰς πᾶν ἔργον ἀγαθὸν ἡτοιμασμένον.</p>"
+  },
+  {
+    "content_id": "10055002022",
+    "version": "1.0.2",
+    "title": "2 Timothy 2:22",
+    "media_type": "Text",
+    "index_reference": "55002022",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>22</sup>&nbsp;τὰς δὲ νεωτερικὰς ἐπιθυμίας φεῦγε, δίωκε δὲ δικαιοσύνην, πίστιν, ἀγάπην, εἰρήνην μετὰ τῶν ἐπικαλουμένων τὸν κύριον ἐκ καθαρᾶς καρδίας.</p>"
+  },
+  {
+    "content_id": "10055002023",
+    "version": "1.0.2",
+    "title": "2 Timothy 2:23",
+    "media_type": "Text",
+    "index_reference": "55002023",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>23</sup>&nbsp;τὰς δὲ μωρὰς καὶ ἀπαιδεύτους ζητήσεις παραιτοῦ, εἰδὼς ὅτι γεννῶσι μάχας·</p>"
+  },
+  {
+    "content_id": "10055002024",
+    "version": "1.0.2",
+    "title": "2 Timothy 2:24",
+    "media_type": "Text",
+    "index_reference": "55002024",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>24</sup>&nbsp;δοῦλον δὲ κυρίου οὐ δεῖ μάχεσθαι, ἀλλὰ ἤπιον εἶναι πρὸς πάντας, διδακτικόν, ἀνεξίκακον,</p>"
+  },
+  {
+    "content_id": "10055002025",
+    "version": "1.0.2",
+    "title": "2 Timothy 2:25",
+    "media_type": "Text",
+    "index_reference": "55002025",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>25</sup>&nbsp;ἐν πραΰτητι παιδεύοντα τοὺς ἀντιδιατιθεμένους, μήποτε δώῃ αὐτοῖς ὁ θεὸς μετάνοιαν εἰς ἐπίγνωσιν ἀληθείας,</p>"
+  },
+  {
+    "content_id": "10055002026",
+    "version": "1.0.2",
+    "title": "2 Timothy 2:26",
+    "media_type": "Text",
+    "index_reference": "55002026",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>26</sup>&nbsp;καὶ ἀνανήψωσιν ἐκ τῆς τοῦ διαβόλου παγίδος, ἐζωγρημένοι ὑπʼ αὐτοῦ εἰς τὸ ἐκείνου θέλημα.</p>"
+  },
+  {
+    "content_id": "10055003001",
+    "version": "1.0.2",
+    "title": "2 Timothy 3:1",
+    "media_type": "Text",
+    "index_reference": "55003001",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>1</sup>&nbsp;Τοῦτο δὲ γίνωσκε ὅτι ἐν ἐσχάταις ἡμέραις ἐνστήσονται καιροὶ χαλεποί·</p>"
+  },
+  {
+    "content_id": "10055003002",
+    "version": "1.0.2",
+    "title": "2 Timothy 3:2",
+    "media_type": "Text",
+    "index_reference": "55003002",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>2</sup>&nbsp;ἔσονται γὰρ οἱ ἄνθρωποι φίλαυτοι, φιλάργυροι, ἀλαζόνες, ὑπερήφανοι, βλάσφημοι, γονεῦσιν ἀπειθεῖς, ἀχάριστοι, ἀνόσιοι,</p>"
+  },
+  {
+    "content_id": "10055003003",
+    "version": "1.0.2",
+    "title": "2 Timothy 3:3",
+    "media_type": "Text",
+    "index_reference": "55003003",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>3</sup>&nbsp;ἄστοργοι, ἄσπονδοι, διάβολοι, ἀκρατεῖς, ἀνήμεροι, ἀφιλάγαθοι,</p>"
+  },
+  {
+    "content_id": "10055003004",
+    "version": "1.0.2",
+    "title": "2 Timothy 3:4",
+    "media_type": "Text",
+    "index_reference": "55003004",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>4</sup>&nbsp;προδόται, προπετεῖς, τετυφωμένοι, φιλήδονοι μᾶλλον ἢ φιλόθεοι,</p>"
+  },
+  {
+    "content_id": "10055003005",
+    "version": "1.0.2",
+    "title": "2 Timothy 3:5",
+    "media_type": "Text",
+    "index_reference": "55003005",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>5</sup>&nbsp;ἔχοντες μόρφωσιν εὐσεβείας τὴν δὲ δύναμιν αὐτῆς ἠρνημένοι· καὶ τούτους ἀποτρέπου.</p>"
+  },
+  {
+    "content_id": "10055003006",
+    "version": "1.0.2",
+    "title": "2 Timothy 3:6",
+    "media_type": "Text",
+    "index_reference": "55003006",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>6</sup>&nbsp;ἐκ τούτων γάρ εἰσιν οἱ ἐνδύνοντες εἰς τὰς οἰκίας καὶ αἰχμαλωτίζοντες γυναικάρια σεσωρευμένα ἁμαρτίαις, ἀγόμενα ἐπιθυμίαις ποικίλαις,</p>"
+  },
+  {
+    "content_id": "10055003007",
+    "version": "1.0.2",
+    "title": "2 Timothy 3:7",
+    "media_type": "Text",
+    "index_reference": "55003007",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>7</sup>&nbsp;πάντοτε μανθάνοντα καὶ μηδέποτε εἰς ἐπίγνωσιν ἀληθείας ἐλθεῖν δυνάμενα.</p>"
+  },
+  {
+    "content_id": "10055003008",
+    "version": "1.0.2",
+    "title": "2 Timothy 3:8",
+    "media_type": "Text",
+    "index_reference": "55003008",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>8</sup>&nbsp;ὃν τρόπον δὲ Ἰάννης καὶ Ἰαμβρῆς ἀντέστησαν Μωϋσεῖ, οὕτως καὶ οὗτοι ἀνθίστανται τῇ ἀληθείᾳ, ἄνθρωποι κατεφθαρμένοι τὸν νοῦν, ἀδόκιμοι περὶ τὴν πίστιν.</p>"
+  },
+  {
+    "content_id": "10055003009",
+    "version": "1.0.2",
+    "title": "2 Timothy 3:9",
+    "media_type": "Text",
+    "index_reference": "55003009",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>9</sup>&nbsp;ἀλλʼ οὐ προκόψουσιν ἐπὶ πλεῖον, ἡ γὰρ ἄνοια αὐτῶν ἔκδηλος ἔσται πᾶσιν, ὡς καὶ ἡ ἐκείνων ἐγένετο.</p>"
+  },
+  {
+    "content_id": "10055003010",
+    "version": "1.0.2",
+    "title": "2 Timothy 3:10",
+    "media_type": "Text",
+    "index_reference": "55003010",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>10</sup>&nbsp;Σὺ δὲ παρηκολούθησάς μου τῇ διδασκαλίᾳ, τῇ ἀγωγῇ, τῇ προθέσει, τῇ πίστει, τῇ μακροθυμίᾳ, τῇ ἀγάπῃ, τῇ ὑπομονῇ,</p>"
+  },
+  {
+    "content_id": "10055003011",
+    "version": "1.0.2",
+    "title": "2 Timothy 3:11",
+    "media_type": "Text",
+    "index_reference": "55003011",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>11</sup>&nbsp;τοῖς διωγμοῖς, τοῖς παθήμασιν, οἷά μοι ἐγένετο ἐν Ἀντιοχείᾳ, ἐν Ἰκονίῳ, ἐν Λύστροις, οἵους διωγμοὺς ὑπήνεγκα· καὶ ἐκ πάντων με ἐρρύσατο ὁ κύριος.</p>"
+  },
+  {
+    "content_id": "10055003012",
+    "version": "1.0.2",
+    "title": "2 Timothy 3:12",
+    "media_type": "Text",
+    "index_reference": "55003012",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>12</sup>&nbsp;καὶ πάντες δὲ οἱ θέλοντες ζῆν εὐσεβῶς ἐν Χριστῷ Ἰησοῦ διωχθήσονται·</p>"
+  },
+  {
+    "content_id": "10055003013",
+    "version": "1.0.2",
+    "title": "2 Timothy 3:13",
+    "media_type": "Text",
+    "index_reference": "55003013",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>13</sup>&nbsp;πονηροὶ δὲ ἄνθρωποι καὶ γόητες προκόψουσιν ἐπὶ τὸ χεῖρον, πλανῶντες καὶ πλανώμενοι.</p>"
+  },
+  {
+    "content_id": "10055003014",
+    "version": "1.0.2",
+    "title": "2 Timothy 3:14",
+    "media_type": "Text",
+    "index_reference": "55003014",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>14</sup>&nbsp;σὺ δὲ μένε ἐν οἷς ἔμαθες καὶ ἐπιστώθης, εἰδὼς παρὰ τίνων ἔμαθες,</p>"
+  },
+  {
+    "content_id": "10055003015",
+    "version": "1.0.2",
+    "title": "2 Timothy 3:15",
+    "media_type": "Text",
+    "index_reference": "55003015",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>15</sup>&nbsp;καὶ ὅτι ἀπὸ βρέφους ἱερὰ γράμματα οἶδας, τὰ δυνάμενά σε σοφίσαι εἰς σωτηρίαν διὰ πίστεως τῆς ἐν Χριστῷ Ἰησοῦ·</p>"
+  },
+  {
+    "content_id": "10055003016",
+    "version": "1.0.2",
+    "title": "2 Timothy 3:16",
+    "media_type": "Text",
+    "index_reference": "55003016",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>16</sup>&nbsp;πᾶσα γραφὴ θεόπνευστος καὶ ὠφέλιμος πρὸς διδασκαλίαν, πρὸς ἐλεγμόν, πρὸς ἐπανόρθωσιν, πρὸς παιδείαν τὴν ἐν δικαιοσύνῃ,</p>"
+  },
+  {
+    "content_id": "10055003017",
+    "version": "1.0.2",
+    "title": "2 Timothy 3:17",
+    "media_type": "Text",
+    "index_reference": "55003017",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>17</sup>&nbsp;ἵνα ἄρτιος ᾖ ὁ τοῦ θεοῦ ἄνθρωπος, πρὸς πᾶν ἔργον ἀγαθὸν ἐξηρτισμένος.</p>"
+  },
+  {
+    "content_id": "10055004001",
+    "version": "1.0.2",
+    "title": "2 Timothy 4:1",
+    "media_type": "Text",
+    "index_reference": "55004001",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>1</sup>&nbsp;Διαμαρτύρομαι ἐνώπιον τοῦ θεοῦ καὶ Χριστοῦ Ἰησοῦ, τοῦ μέλλοντος κρίνειν ζῶντας καὶ νεκρούς, καὶ τὴν ἐπιφάνειαν αὐτοῦ καὶ τὴν βασιλείαν αὐτοῦ·</p>"
+  },
+  {
+    "content_id": "10055004002",
+    "version": "1.0.2",
+    "title": "2 Timothy 4:2",
+    "media_type": "Text",
+    "index_reference": "55004002",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>2</sup>&nbsp;κήρυξον τὸν λόγον, ἐπίστηθι εὐκαίρως ἀκαίρως, ἔλεγξον, ἐπιτίμησον, παρακάλεσον, ἐν πάσῃ μακροθυμίᾳ καὶ διδαχῇ.</p>"
+  },
+  {
+    "content_id": "10055004003",
+    "version": "1.0.2",
+    "title": "2 Timothy 4:3",
+    "media_type": "Text",
+    "index_reference": "55004003",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>3</sup>&nbsp;ἔσται γὰρ καιρὸς ὅτε τῆς ὑγιαινούσης διδασκαλίας οὐκ ἀνέξονται, ἀλλὰ κατὰ τὰς ἰδίας ἐπιθυμίας ἑαυτοῖς ἐπισωρεύσουσιν διδασκάλους κνηθόμενοι τὴν ἀκοήν,</p>"
+  },
+  {
+    "content_id": "10055004004",
+    "version": "1.0.2",
+    "title": "2 Timothy 4:4",
+    "media_type": "Text",
+    "index_reference": "55004004",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>4</sup>&nbsp;καὶ ἀπὸ μὲν τῆς ἀληθείας τὴν ἀκοὴν ἀποστρέψουσιν, ἐπὶ δὲ τοὺς μύθους ἐκτραπήσονται.</p>"
+  },
+  {
+    "content_id": "10055004005",
+    "version": "1.0.2",
+    "title": "2 Timothy 4:5",
+    "media_type": "Text",
+    "index_reference": "55004005",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>5</sup>&nbsp;σὺ δὲ νῆφε ἐν πᾶσιν, κακοπάθησον, ἔργον ποίησον εὐαγγελιστοῦ, τὴν διακονίαν σου πληροφόρησον.</p>"
+  },
+  {
+    "content_id": "10055004006",
+    "version": "1.0.2",
+    "title": "2 Timothy 4:6",
+    "media_type": "Text",
+    "index_reference": "55004006",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>6</sup>&nbsp;Ἐγὼ γὰρ ἤδη σπένδομαι, καὶ ὁ καιρὸς τῆς ἀναλύσεώς μου ἐφέστηκεν.</p>"
+  },
+  {
+    "content_id": "10055004007",
+    "version": "1.0.2",
+    "title": "2 Timothy 4:7",
+    "media_type": "Text",
+    "index_reference": "55004007",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>7</sup>&nbsp;τὸν καλὸν ἀγῶνα ἠγώνισμαι, τὸν δρόμον τετέλεκα, τὴν πίστιν τετήρηκα·</p>"
+  },
+  {
+    "content_id": "10055004008",
+    "version": "1.0.2",
+    "title": "2 Timothy 4:8",
+    "media_type": "Text",
+    "index_reference": "55004008",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>8</sup>&nbsp;λοιπὸν ἀπόκειταί μοι ὁ τῆς δικαιοσύνης στέφανος, ὃν ἀποδώσει μοι ὁ κύριος ἐν ἐκείνῃ τῇ ἡμέρᾳ, ὁ δίκαιος κριτής, οὐ μόνον δὲ ἐμοὶ ἀλλὰ καὶ πᾶσιν τοῖς ἠγαπηκόσι τὴν ἐπιφάνειαν αὐτοῦ.</p>"
+  },
+  {
+    "content_id": "10055004009",
+    "version": "1.0.2",
+    "title": "2 Timothy 4:9",
+    "media_type": "Text",
+    "index_reference": "55004009",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>9</sup>&nbsp;Σπούδασον ἐλθεῖν πρός με ταχέως·</p>"
+  },
+  {
+    "content_id": "10055004010",
+    "version": "1.0.2",
+    "title": "2 Timothy 4:10",
+    "media_type": "Text",
+    "index_reference": "55004010",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>10</sup>&nbsp;Δημᾶς γάρ με ἐγκατέλιπεν ἀγαπήσας τὸν νῦν αἰῶνα, καὶ ἐπορεύθη εἰς Θεσσαλονίκην, Κρήσκης εἰς Γαλατίαν, Τίτος εἰς Δαλματίαν·</p>"
+  },
+  {
+    "content_id": "10055004011",
+    "version": "1.0.2",
+    "title": "2 Timothy 4:11",
+    "media_type": "Text",
+    "index_reference": "55004011",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>11</sup>&nbsp;Λουκᾶς ἐστιν μόνος μετʼ ἐμοῦ. Μᾶρκον ἀναλαβὼν ἄγε μετὰ σεαυτοῦ, ἔστιν γάρ μοι εὔχρηστος εἰς διακονίαν,</p>"
+  },
+  {
+    "content_id": "10055004012",
+    "version": "1.0.2",
+    "title": "2 Timothy 4:12",
+    "media_type": "Text",
+    "index_reference": "55004012",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>12</sup>&nbsp;Τυχικὸν δὲ ἀπέστειλα εἰς Ἔφεσον.</p>"
+  },
+  {
+    "content_id": "10055004013",
+    "version": "1.0.2",
+    "title": "2 Timothy 4:13",
+    "media_type": "Text",
+    "index_reference": "55004013",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>13</sup>&nbsp;τὸν φαιλόνην, ὃν ἀπέλιπον ἐν Τρῳάδι παρὰ Κάρπῳ, ἐρχόμενος φέρε, καὶ τὰ βιβλία, μάλιστα τὰς μεμβράνας.</p>"
+  },
+  {
+    "content_id": "10055004014",
+    "version": "1.0.2",
+    "title": "2 Timothy 4:14",
+    "media_type": "Text",
+    "index_reference": "55004014",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>14</sup>&nbsp;Ἀλέξανδρος ὁ χαλκεὺς πολλά μοι κακὰ ἐνεδείξατο—ἀποδώσει αὐτῷ ὁ κύριος κατὰ τὰ ἔργα αὐτοῦ—</p>"
+  },
+  {
+    "content_id": "10055004015",
+    "version": "1.0.2",
+    "title": "2 Timothy 4:15",
+    "media_type": "Text",
+    "index_reference": "55004015",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>15</sup>&nbsp;ὃν καὶ σὺ φυλάσσου, λίαν γὰρ ἀντέστη τοῖς ἡμετέροις λόγοις.</p>"
+  },
+  {
+    "content_id": "10055004016",
+    "version": "1.0.2",
+    "title": "2 Timothy 4:16",
+    "media_type": "Text",
+    "index_reference": "55004016",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>16</sup>&nbsp;Ἐν τῇ πρώτῃ μου ἀπολογίᾳ οὐδείς μοι παρεγένετο, ἀλλὰ πάντες με ἐγκατέλιπον—μὴ αὐτοῖς λογισθείη—</p>"
+  },
+  {
+    "content_id": "10055004017",
+    "version": "1.0.2",
+    "title": "2 Timothy 4:17",
+    "media_type": "Text",
+    "index_reference": "55004017",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>17</sup>&nbsp;ὁ δὲ κύριός μοι παρέστη καὶ ἐνεδυνάμωσέν με, ἵνα διʼ ἐμοῦ τὸ κήρυγμα πληροφορηθῇ καὶ ἀκούσωσιν πάντα τὰ ἔθνη, καὶ ἐρρύσθην ἐκ στόματος λέοντος.</p>"
+  },
+  {
+    "content_id": "10055004018",
+    "version": "1.0.2",
+    "title": "2 Timothy 4:18",
+    "media_type": "Text",
+    "index_reference": "55004018",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>18</sup>&nbsp;ῥύσεταί με ὁ κύριος ἀπὸ παντὸς ἔργου πονηροῦ καὶ σώσει εἰς τὴν βασιλείαν αὐτοῦ τὴν ἐπουράνιον· ᾧ ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων, ἀμήν.</p>"
+  },
+  {
+    "content_id": "10055004019",
+    "version": "1.0.2",
+    "title": "2 Timothy 4:19",
+    "media_type": "Text",
+    "index_reference": "55004019",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>19</sup>&nbsp;Ἄσπασαι Πρίσκαν καὶ Ἀκύλαν καὶ τὸν Ὀνησιφόρου οἶκον.</p>"
+  },
+  {
+    "content_id": "10055004020",
+    "version": "1.0.2",
+    "title": "2 Timothy 4:20",
+    "media_type": "Text",
+    "index_reference": "55004020",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>20</sup>&nbsp;Ἔραστος ἔμεινεν ἐν Κορίνθῳ, Τρόφιμον δὲ ἀπέλιπον ἐν Μιλήτῳ ἀσθενοῦντα.</p>"
+  },
+  {
+    "content_id": "10055004021",
+    "version": "1.0.2",
+    "title": "2 Timothy 4:21",
+    "media_type": "Text",
+    "index_reference": "55004021",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>21</sup>&nbsp;Σπούδασον πρὸ χειμῶνος ἐλθεῖν. Ἀσπάζεταί σε Εὔβουλος καὶ Πούδης καὶ Λίνος καὶ Κλαυδία καὶ οἱ ἀδελφοὶ πάντες.</p>"
+  },
+  {
+    "content_id": "10055004022",
+    "version": "1.0.2",
+    "title": "2 Timothy 4:22",
+    "media_type": "Text",
+    "index_reference": "55004022",
+    "language": "grc",
+    "review_level": "Professional",
+    "content": "<p><sup>22</sup>&nbsp;Ὁ κύριος μετὰ τοῦ πνεύματός σου. ἡ χάρις μεθʼ ὑμῶν.</p>"
+  }
+]
