@@ -15,3 +15,9 @@ The repository is organized by language codes, with each language folder contain
 ## Documentation
 
 For more information about the Aquifer platform, data, and metadata formats, visit the [Aquifer Documentation repository](https://github.com/BibleAquifer/SBLGNT).
+
+## Sources
+
+The data for this edition of the SBLGNT is based on the CC BY-4.0 SBLGNT data released by Logos/Faithlife.
+
+It can be found on github at https://github.com/Faithlife/SBLGNT
